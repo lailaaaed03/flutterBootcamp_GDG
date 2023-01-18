@@ -3,7 +3,3 @@ import 'Calculator.dart';
   var calc = CALCULATOR();
   calc.getUserInformation();
 }
-
-  
-
- 
